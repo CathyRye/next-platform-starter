@@ -1,4 +1,3 @@
-import Link from 'next/link';
 
 export function Card({ Brand, Location, Sponsor, Reward, children }) {
     return (
