@@ -2,9 +2,11 @@
 
 Code is adapted from Netlify's Next.js Platform Starter. Demo should be runnable locally simply by running the following commands (or equivalent):
 
+```
 npm install
 npm run build
 npm run dev
+```
 
 Text below comes from original README.md to come with the Netlify project. 
 
