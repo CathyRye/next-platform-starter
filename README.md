@@ -1,3 +1,14 @@
+# EverClime Cards Filter Demo
+
+Code is adapted from Netlify's Next.js Platform Starter. Demo should be runnable locally simply by running the following commands (or equivalent):
+
+npm install
+npm run build
+npm run dev
+
+Text below comes from original README.md to come with the Netlify project. 
+
+
 # Next.js on Netlify Platform Starter
 
 [Live Demo](https://nextjs-platform-starter.netlify.app/)
@@ -39,5 +50,7 @@ netlify dev
 ```
 
 If your browser doesn't navigate to the site automatically, visit [localhost:8888](http://localhost:8888).
+
+
 
 
